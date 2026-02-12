@@ -55,6 +55,6 @@ Após carregar o código, realize os testes de campo:
 
 ---
 
-**Dica do Assistente:** Mantenha os fios organizados com abraçadeiras. Um robô com "fios soltos" é um alvo fácil na arena de combate!
+**Dica Salvadora:** Mantenha os fios organizados com abraçadeiras. Um robô com "fios soltos" é um alvo fácil na arena de combate!
 
-**Gostaria que eu explicasse como adicionar um "Modo Turbo" usando o PWM (analogWrite) para aumentar a velocidade do robô durante o ataque?**
+
