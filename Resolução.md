@@ -1,6 +1,5 @@
-Como dou aula de robotica, aproveitei o desafio para criar uma aula de Robótica de Combate.
-
-Olá! Como seu assistente de robótica, preparei um plano de aula dinâmico e focado em **Robótica de Combate (Sumô/Destruição)**. Esta é uma excelente forma de ensinar lógica de controle e condicionais de forma prática e empolgante.
+Como dou aula de robotica, aproveitei o desafio para criar uma aula de **Robótica de Combate (Sumô/Destruição)**.
+Esta é uma excelente forma de ensinar lógica de controle e condicionais de forma prática e empolgante.
 
 ---
 
@@ -130,5 +129,3 @@ void parar() {
 ### Dica de Ouro para o Professor:
 
 Peça para os alunos observarem que, se pressionarem dois botões ao mesmo tempo, o código atual prioriza o que vem primeiro no `if/else`. Um desafio extra seria programar para que dois botões pressionados resultem em um movimento diagonal ou curva suave!
-
-**Gostaria que eu criasse um diagrama de conexões (Esquema Elétrico) para ajudar os alunos na montagem física?**
