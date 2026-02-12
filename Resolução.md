@@ -129,3 +129,7 @@ void parar() {
 ### Dica de Ouro para o Professor:
 
 Peça para os alunos observarem que, se pressionarem dois botões ao mesmo tempo, o código atual prioriza o que vem primeiro no `if/else`. Um desafio extra seria programar para que dois botões pressionados resultem em um movimento diagonal ou curva suave!
+
+Outros robos :
+### Seguidor de linha
+https://www.tinkercad.com/things/btvXxQsSrs0-aula-21-robo-seguidor-linha-i
